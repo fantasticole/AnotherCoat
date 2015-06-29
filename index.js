@@ -1,5 +1,7 @@
 var config = require('./config');
 var Twitter = require('twitter');
+var fs = require('fs');
+var colors = JSON.parse(fs.readFileSync('data.json', 'utf8'));
 
 var client = new Twitter({
 	consumer_key: config.twitterBot.cons_key,
@@ -40,8 +42,17 @@ function sendTweet(text){
 	});
 }
 
+function randomizer(colors) {
+    var keys = Object.keys(obj);
+    var obj = obj[keys[ keys.length * Math.random() << 0]];
+    console.log(obj);
+};
+
 // sendTweet('fifth one, oh yeah baby!');
-getTimeline();
+// getTimeline();
+// randomizer();
+
+console.log(colors.Sheers.Blanc);
 
 
 
