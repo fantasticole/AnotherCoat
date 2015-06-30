@@ -42,17 +42,27 @@ function sendTweet(text){
 	});
 }
 
-function randomizer(colors) {
+function randomizer(obj){
     var keys = Object.keys(obj);
-    var obj = obj[keys[ keys.length * Math.random() << 0]];
-    console.log(obj);
+    var coll = keys[ keys.length * Math.random() << 0];
+    return coll;
+};
+
+function generateTweet(obj){
+	var collection = randomizer(obj);
+    console.log('collection: ', collection);
+    // var inside = obj[collection];
+    // console.log('data: ', inside);
+	var color = randomizer(obj[collection]);
+	console.log('color: ', color);
+	var brand = obj[collection][color];
+	console.log('brand: ', brand);
 };
 
 // sendTweet('fifth one, oh yeah baby!');
 // getTimeline();
-// randomizer();
-
-console.log(colors.Sheers.Blanc);
+// randomizer(colors[randomizer(colors)]);
+generateTweet(colors);
 
 
 
