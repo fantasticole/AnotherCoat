@@ -10,7 +10,7 @@ var client = new Twitter({
 	access_token_secret: config.twitterBot.access_secret
 });
 
-var params = {screen_name: 'Hey_Cole'};
+var params = {screen_name: 'AnotherCoat'};
 
 function getTimeline(){
 	client.get('statuses/user_timeline', params, function(err, timeline, res){
@@ -37,11 +37,8 @@ function randomizer(obj){
 
 function generateTweet(obj){
 	var collection = randomizer(obj);
-    console.log('collection: ', collection);
 	var color = randomizer(obj[collection]);
-	console.log('color: ', color);
 	var brand = obj[collection][color];
-	console.log('brand: ', brand);
 	var tweet = color + ' by ' + brand + ' from the ' + collection + ' Collection.'
 	if (tweet.length <= 140){
 		return tweet;
@@ -51,10 +48,8 @@ function generateTweet(obj){
 	}
 };
 
-// sendTweet('fifth one, oh yeah baby!');
+sendTweet(generateTweet(colors));
 // getTimeline();
-// randomizer(colors[randomizer(colors)]);
-console.log(generateTweet(colors));
 
 
 
