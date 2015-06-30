@@ -364,13 +364,13 @@
             "Beyond Cozy": "Essie",
             "Golden Nuggets": "Essie"
       },
-      "Minnie Mouse Collection": {
+      "Minnie Mouse": {
             "You Moust You Moust": "OPI",
             "I’m All Ears": "OPI",
             "Nothin’ Mousie ‘Bout It": "OPI",
             "The Color of Minnie": "OPI" 
       },
-      "Brights Collection": {
+      "Brights": {
             "A Grape Fit!": "OPI",
             "And This Little Piggy": "OPI",
             "Atomic Orange": "OPI",
@@ -420,7 +420,7 @@
             "Totally Tangerine": "OPI",
             "Up Front & Personal": "OPI" 
       },
-      "Gwen Stefani Collection": {
+      "Gwen Stefani": {
             "4 in the Morning": "OPI",
             "Hey Baby": "OPI",
             "I Sing in Color": "OPI",
@@ -428,7 +428,7 @@
             "Love.Angel.Music.Baby.": "OPI",
             "Push and Shove": "OPI" 
       },
-      "Ford Mustang Collection": {
+      "Ford Mustang": {
             "50 Years of Style": "OPI",
             "Angel With A Leadfoot": "OPI",
             "Girls Love Ponies": "OPI",
@@ -436,7 +436,7 @@
             "Race Red": "OPI",
             "The Sky’s My Limit": "OPI" 
       },
-      "MLB Fashion Plate Collection": {
+      "MLB Fashion Plate": {
             "7th Inning Strrretch": "OPI",
             "Girls Love Diamonds": "OPI",
             "Love Athletes in Cleats": "OPI",
@@ -445,7 +445,7 @@
             "Short--STOP!": "OPI",
             "Umpires Come Out at Night": "OPI" 
       },
-      "Mariah Carey Collection": {
+      "Mariah Carey": {
             "A Butterfly Moment": "OPI",
             "Anti-bleak": "OPI",
             "Can't Let Go": "OPI",
@@ -600,7 +600,7 @@
             "Your Royal Shine-ness": "OPI",
             "Y’all Come Back Ya Hear": "OPI" 
       },
-      "Coca Cola Collection": {
+      "Coca Cola": {
             "A Grape Affair": "OPI",
             "Coca-Cola Red": "OPI",
             "Get Cherried Away": "OPI",
@@ -611,7 +611,7 @@
             "Today I Accomplished Zero": "OPI",
             "You’re So Vain-illa": "OPI" 
       },
-      "San Francisco Collection": {
+      "San Francisco": {
             "A Piers to Be Tan": "OPI",
             "Alcatraz … Rocks": "OPI",
             "Dining al Frisco": "OPI",
@@ -628,7 +628,7 @@
             "Peace & Love & OPI": "OPI",
             "Wharf! Wharf! Wharf!": "OPI" 
       },
-      "Holland Collection": {
+      "Holland": {
             "A Roll in the Hague": "OPI",
             "Did You 'ear About Van Gogh?": "OPI",
             "Dutch 'Ya Just Love OPI?": "OPI",
@@ -642,7 +642,7 @@
             "Vampsterdam": "OPI",
             "Wooden Shoe Like to Know?": "OPI" 
       },
-      "Euro Centrale Collection": {
+      "Euro Centrale": {
             "A Woman's Prague-ative": "OPI",
             "Can't Find My Czechbook": "OPI",
             "Hands Off My Kielbasa!": "OPI",
@@ -656,7 +656,7 @@
             "Vant to Bite My Neck?": "OPI",
             "You're Such a BudaPest": "OPI" 
       },
-      "Mariah Carey Holiday Collection": {
+      "Mariah Carey Holiday": {
             "All I Want For Christmas": "OPI",
             "All Sparkly and Gold": "OPI",
             "Cute Litter Vixen": "OPI",
@@ -669,7 +669,7 @@
             "Warm Me Up": "OPI",
             "Wonderous Star": "OPI" 
       },
-      "Hawaii Collection": {
+      "Hawaii": {
             "Aloha from OPI": "OPI",
             "Do You Take Lei Away?": "OPI",
             "Go with the Lava Flow": "OPI",
@@ -683,7 +683,7 @@
             "That's Hula-rious!": "OPI",
             "This Color's Making Waves": "OPI" 
       },
-      "Soft Shades Collection": {
+      "Soft Shades": {
             "Alpine Snow": "OPI",
             "Alter Ego": "OPI",
             "Bubble Bath": "OPI",
@@ -730,7 +730,7 @@
             "Tutti Frutti Tonga": "OPI",
             "Who Needs a Prince?": "OPI" 
       },
-      "Brazil Collection": {
+      "Brazil": {
             "AmazON…AmazOFF": "OPI",
             "Don't Bossa Nova Me Around": "OPI",
             "I Just Can't Cope-acabana": "OPI",
@@ -744,14 +744,14 @@
             "Toucan Do It If You Try": "OPI",
             "Where Did Suzi's Man-go?": "OPI" 
       },
-      "New York City Ballet Collection": {
+      "New York City Ballet": {
             "Barre My Soul": "OPI",
             "Care to Danse?": "OPI",
             "Don't Touch My Tutu!": "OPI",
             "My Pointe Exactly": "OPI",
             "You Callin' Me a Lyre?": "OPI" 
       },
-      "Infinite Shine Collection": {
+      "Infinite Shine": {
             "Base Coat": "OPI",
             "Brains & Bronze": "OPI",
             "Can't Be Beet": "OPI",
@@ -785,13 +785,13 @@
             "Withstands The Test Of Thyme": "OPI",
             "You Can Count On It": "OPI" 
       },
-      "Sheer Tints Collection": {
+      "Sheer Tints": {
             "Be Magentale With Me": "OPI",
             "Don't Violet Me Down": "OPI",
             "I Can Teal You Like Me": "OPI",
             "I'm Never Amberrassed": "OPI" 
       },
-      "Germany Collection": {
+      "Germany": {
             "Berlin There Done That": "OPI",
             "Danke-Shiny Red": "OPI",
             "Deutsch You Want Me Baby?": "OPI",
@@ -805,7 +805,7 @@
             "Suzi & the 7 Düsseldorfs": "OPI",
             "Unfor-greta-bly Blue": "OPI" 
       },
-      "Shatter Collection": {
+      "Shatter": {
             "Black Shatter": "OPI",
             "Blue Shatter": "OPI",
             "Gold Shatter": "OPI",
@@ -818,7 +818,7 @@
             "Turquoise Shatter": "OPI",
             "White Shatter": "OPI" 
       },
-      "Spotlight on Glitter Collection": {
+      "Spotlight on Glitter": {
             "Blush Hour": "OPI",
             "Chasing Rainbows": "OPI",
             "Desperately Seeking Sequins": "OPI",
@@ -826,7 +826,7 @@
             "Rose of Light": "OPI",
             "You Pink Too Much": "OPI" 
       },
-      "Skyfall James Bond Collection": {
+      "Skyfall James Bond": {
             "Bond James Bond": "OPI",
             "Is That Silva?": "OPI",
             "Moonraker": "OPI",
@@ -834,7 +834,7 @@
             "On Her Majesty's Secret Service": "OPI",
             "The Spy Who Loved Me": "OPI" 
       },
-      "Spiderman Collection": {
+      "Spiderman": {
             "Call Me Gwen-ever": "OPI",
             "Into the Night": "OPI",
             "Just Spotted The Lizard": "OPI",
@@ -843,7 +843,7 @@
             "Shatter the Scales": "OPI",
             "Your Web or Mine?": "OPI" 
       },
-      "Nordic Collection": {
+      "Nordic": {
             "Can’t aFjörd Not To": "OPI",
             "Do You Have this Color in Stock-holm?": "OPI",
             "Going My Way or Norway?": "OPI",
@@ -857,7 +857,7 @@
             "Thank Glogg It’s Friday!": "OPI",
             "Viking in a Vinter Vonderland": "OPI" 
       },
-      "50 Shades of Grey Collection": {
+      "50 Shades of Grey": {
             "Cement The Deal": "OPI",
             "Dark Side Of The Mood": "OPI",
             "Embrace The Gray": "OPI",
@@ -865,7 +865,7 @@
             "Romantically Involved": "OPI",
             "Shine For Me": "OPI" 
       },
-      "Muppets Most Wanted Collection": {
+      "Muppets Most Wanted": {
             "Chillin' Like a Villain": "OPI",
             "Gaining Mole-mentum": "OPI",
             "I Love Applause": "OPI",
@@ -875,7 +875,7 @@
             "Miss Piggy's Big Number": "OPI",
             "Muppets World Tour": "OPI" 
       },
-      "Gwen Stefani Holiday Collection": {
+      "Gwen Stefani Holiday": {
             "Christmas Gone Plaid": "OPI",
             "Cinnamon Sweet": "OPI",
             "Comet In The Sky": "OPI",
@@ -897,7 +897,7 @@
             "UnFrost My Heart": "OPI",
             "What's Your Point-settia": "OPI"
       },
-      "Designer Collection": {
+      "Designer": {
             "Designer Bold": "OPI",
             "Designer Classic": "OPI",
             "Designer Extravagance": "OPI",
@@ -916,11 +916,11 @@
             "Designer Top Coat": "OPI",
             "Designer Tourmaline": "OPI"
       },
-      "Nicki Minaj Collection": {
+      "Nicki Minaj": {
             "Did It On 'Em": "OPI",
             "Sup Bass Shatter": "OPI" 
       },
-      "Oz Collection": {
+      "Oz": {
             "Don’t Burst My Bubble": "OPI",
             "Glints of Glinda": "OPI",
             "Lights of Emerald City": "OPI",
@@ -928,7 +928,7 @@
             "When Monkeys Fly!": "OPI",
             "Which is Witch?": "OPI" 
       },
-      "Neon Collection": {
+      "Neon": {
             "Down to the Core-al": "OPI",
             "Hotter than You Pink": "OPI",
             "Juice Bar Hopping": "OPI",
@@ -937,13 +937,13 @@
             "Put a Coat On!": "OPI",
             "You are So Outta Lime!": "OPI" 
       },
-      "Peanuts Collection": {
+      "Peanuts": {
             "Good Grief!": "OPI",
             "To Be or Not To Beagle": "OPI",
             "Where's My Blanket???": "OPI",
             "Who Are You Calling Bossy": "OPI" 
       },
-      "Bond Girls Collection": {
+      "Bond Girls": {
             "Honey Ryder": "OPI",
             "Jinx": "OPI",
             "Pussy Galore": "OPI",
